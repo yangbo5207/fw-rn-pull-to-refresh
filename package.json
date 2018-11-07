@@ -1,6 +1,6 @@
 {
-	"name": "react-native-rk-pull-to-refresh",
-	"version":"1.2.1",
+	"name": "fw-rn-pull-to-refresh",
+	"version":"1.0.0",
 	"description": "a pull to refresh component for react-native, same api on both android and ios.",
 	"main": "index.js",
 	"scripts": {
@@ -8,7 +8,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/hzl123456/react-native-rk-pull-to-refresh.git"
+		"url": "git+git@github.com:yangbo5207/fw-rn-pull-to-refresh.git"
 	},
 	"keywords": [
 		"react-native-pull-to-refresh",
@@ -21,5 +21,5 @@
 	],
 	"author": "ZhilinHe",
 	"license": "MIT",
-	"homepage": "https://github.com/hzl123456/react-native-rk-pull-to-refresh#readme"
+	"homepage": "https://github.com/yangbo5207/fw-rn-pull-to-refresh"
 }
