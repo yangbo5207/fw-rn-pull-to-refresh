@@ -1,0 +1,25 @@
+{
+	"name": "react-native-rk-pull-to-refresh",
+	"version":"1.2.1",
+	"description": "a pull to refresh component for react-native, same api on both android and ios.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1;"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/hzl123456/react-native-rk-pull-to-refresh.git"
+	},
+	"keywords": [
+		"react-native-pull-to-refresh",
+		"react-native",
+		"ios",
+		"android",
+		"pull-to-refresh",
+		"pull",
+		"refresh"
+	],
+	"author": "ZhilinHe",
+	"license": "MIT",
+	"homepage": "https://github.com/hzl123456/react-native-rk-pull-to-refresh#readme"
+}
