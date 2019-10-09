@@ -1,6 +1,6 @@
 {
 	"name": "fw-rn-pull-to-refresh",
-	"version":"1.0.0",
+	"version":"1.0.1",
 	"description": "a pull to refresh component for react-native, same api on both android and ios.",
 	"main": "index.js",
 	"scripts": {
@@ -19,7 +19,7 @@
 		"pull",
 		"refresh"
 	],
-	"author": "ZhilinHe",
+	"author": "yangbo",
 	"license": "MIT",
 	"homepage": "https://github.com/yangbo5207/fw-rn-pull-to-refresh"
 }
