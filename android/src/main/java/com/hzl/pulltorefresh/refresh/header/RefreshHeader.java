@@ -1,7 +1,7 @@
 package com.hzl.pulltorefresh.refresh.header;
 
 import android.content.Context;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.facebook.react.views.view.ReactViewGroup;
 import com.hzl.pulltorefresh.refresh.PtrFrameLayout;
